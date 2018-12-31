@@ -1,0 +1,2 @@
+# dronemapping
+OpenDroneMapping tests
